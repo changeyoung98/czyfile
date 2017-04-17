@@ -1,2 +1,3 @@
 # czyfile
 my files
+seproject
